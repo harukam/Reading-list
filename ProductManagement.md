@@ -1,7 +1,6 @@
 # Product management
 
-## プロダクトマネジメント ―ビルドトラップを避け顧客に価値を届ける 
-## Escaping the Build Trap: How Effective Product Management Creates Real Value
+## プロダクトマネジメント ―ビルドトラップを避け顧客に価値を届ける / Escaping the Build Trap: How Effective Product Management Creates Real Value
 - Status: WIP (Jan- 2021)
 - Jp https://amzn.to/3owdZwP / En https://amzn.to/2MiaAV9
 - Notes:
