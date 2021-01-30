@@ -17,7 +17,7 @@ Thank you @gmgchow!!!
 - Generally I don't give any scores lower than 4, no matter how bad it is~
 
 -  書籍の評価は私の個人的な意見です。
--  一般的には、どんなに悪くても4点以下の点数はつけないようにしています～。
+-  どんなに悪くても4点以下の点数はつけないようにしています～。
 
 
 ## Rating Scale / 評価について
