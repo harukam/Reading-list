@@ -2,25 +2,32 @@ Thank you @gmgchow!!!
 
 ---
 
-# Reading List
+# Reading List / リーディングリスト
 
-This repository is for tracking books that I have read or want to read. Generally I read about: cybersecurity, automation, productivity, devops, process/efficiency, and specific technologies that I am interested in or using at work.
+This repository is for tracking books that I have read or want to read. Generally I read about: Design, Research, Product managiment, Psychology, Behavioral economics, and specific technologies that I am interested in or using at work.
 
-## Disclaimers
+このリポジトリは、私が読んだ、または読みたい本を記録するためのものです。 一般的に、：デザイン、研究、製品管理、心理学、行動経済学、および私が興味を持っている、または仕事で使用している特定のテクノロジーについて読んでいこうと思っています。
+
+## Disclaimers / 免責事項
 
 1. The book ratings are based on my own personal opinion so it is possible that you may not agree with them.
 2. Generally I don't give any scores lower than 4, no matter how bad it is~
 
-## Rating Scale
+1. 書籍の評価は私の個人的な意見です。
+2. 一般的には、どんなに悪くても4点以下の点数はつけないようにしています～。
 
-- 10/10 = must read!
-- 9/10 = extremely helpful!
-- 8/10 = very good!
-- 7/10 = good to read
-- 6/10 = can skip
-- 5/10 = meh...
-- 4/10 = bad.
+## Rating Scale / 評価について
+
+- 10/10 = must read! /読んでほしい！
+- 9/10 = extremely helpful! / 非常に参考になった
+- 8/10 = very good! /とても良かったです
+- 7/10 = good to read / 読んでも良いかも
+- 6/10 = can skip / スキップしてもいいかも
+- 5/10 = meh... / まぁまぁ・・・。
+- 4/10 = bad. / 悪い
 
 ## Recommendations
 
 I am always looking for things to read so if you have recommendations on related topics, please feel free to create an issue and put your recommendation there!
+
+いつも読みたいものを探しているので、関連する話題でおすすめのものがあれば、ぜひ課題を作ってそこに入れてくださいね
