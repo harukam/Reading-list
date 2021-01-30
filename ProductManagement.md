@@ -1,10 +1,11 @@
 # Product management
 
-## プロダクトマネジメント ―ビルドトラップを避け顧客に価値を届ける
+## プロダクトマネジメント ―ビルドトラップを避け顧客に価値を届ける / Escaping the Build Trap: How Effective Product Management Creates Real Value
 - Status: WIP (Jan- 2021)
-- https://amzn.to/3owdZwP
+- Jp https://amzn.to/3owdZwP / En https://amzn.to/2MiaAV9
 - Notes:
-	-この本のテーマは 【ビルドトラップ】から脱し、ビジネス価値と顧客価値を最大限に高めるプロダクト主導組織を作る方法
+- この本のテーマは 【ビルドトラップ】から脱し、ビジネス価値と顧客価値を最大限に高めるプロダクト主導組織を作る方法
+
 	- 適切な責任と構造を持つプロダクトマネージャーの役割を作る
 	- 優れた意思決定を促進するような戦略野本でプロダクトマネージャーがうまく機能するようにする
 	- 実験と最適化によって作るべきプロダクトを決めるというプロセスを理解する
